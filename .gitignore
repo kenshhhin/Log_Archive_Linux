@@ -1,0 +1,5 @@
+log_archive.log
+log_archives/
+*.tar
+stdout.txt
+stderr.txt
