@@ -110,4 +110,4 @@ sudo log-archive /var/log
 
 ## 📝 License
 
-This project is open source and licensed under the MIT License.
+This project is open source and licensed under the GNU License.
