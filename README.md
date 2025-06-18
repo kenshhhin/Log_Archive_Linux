@@ -108,6 +108,12 @@ sudo log-archive /var/log
 
 ---
 
+## 🌐 Project URL
+
+[https://roadmap.sh/projects/log-archive-tool](https://roadmap.sh/projects/log-archive-tool)
+
+---
+
 ## 📝 License
 
-This project is open source and licensed under the GNU License.
+This project is open source and licensed under the GNU General Public License (GPL).
